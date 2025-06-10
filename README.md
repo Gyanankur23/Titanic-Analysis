@@ -4,6 +4,39 @@
 
 This repository presents an **interactive, visualization-rich analysis** of the Titanic dataset using Python libraries **pandas, Plotly, and Dash**. We explore survival trends and hidden correlations through **data-driven storytelling**.  
 
+### **SkillCraft Technology - Data Analyst Internship (Task 2)**  
+
+This project is part of **SkillCraft Technology's Data Analyst Internship**, specifically **Task 2: Titanic Dataset Analysis**. Using Python, Dash, and powerful data visualizations, we explore Titanic’s passenger survival patterns and reveal key insights.  
+
+## 📁 **Project Structure**  
+
+```plaintext
+📂 Titanic-Analysis
+│── 📜 README.md               # Project documentation & overview
+│── 📂 output                  # Contains all 12 visualizations
+│    ├── age_distribution.png  
+│    ├── survival_rate_by_class.png  
+│    ├── survival_rate_by_gender.png  
+│    ├── fare_vs_age_survival.png  
+│    ├── age_distribution_by_class.png  
+│    ├── embarkation_survival_rate.png  
+│    ├── fare_distribution_by_class.png  
+│    ├── fare_distribution.png  
+│    ├── sibsp_survival_rate.png  
+│    ├── age_vs_survival_by_class.png  
+│    ├── parch_survival_rate.png  
+│    ├── fare_vs_age_by_class.png  
+│── 📂 data                    
+│    ├── Titanic Dataset.xlsx  # Raw dataset
+│── 📂 scripts                 
+│    ├── titanic_analysis.py    # Core Python analysis script
+│── 📂 notebooks               
+│    ├── Titanic_Analysis.ipynb # Jupyter notebook walkthrough
+│── 📂 reports                  
+│    ├── Titanic Dataset Analysis.pdf   # Final summary report
+│    ├── Titanic Summary Analysis.pdf   # Key findings breakdown
+```
+
 ## 🔍 **What's Inside?**  
 
 ### **🛠 Data Cleaning & Preparation**  
