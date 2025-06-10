@@ -151,7 +151,7 @@ This will launch the **interactive Dash dashboard**, allowing you to explore sur
 ## 🌍 **Join the Discussion!**
   
 Connect on LinkedIn:
- [@GyanankurBaruah](https://linkedin.com/in/gyanankur)  
+ [@GyanankurBaruah](https://linkedin.com/in/gyanankurbaruah)  
 
 
 🚢 **Explore, analyze, and uncover Titanic’s survival mysteries!**  
